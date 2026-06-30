@@ -5,7 +5,7 @@ from netmiko import ConnectHandler
 iosv_l2_s1 = {
     'device_type': 'cisco_ios',
     'ip': '192.168.122.71',
-    'username': 'david',
+    'username': 'Mohamed',
     'password': 'cisco',
 }
 
